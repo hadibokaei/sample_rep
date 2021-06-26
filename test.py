@@ -34,6 +34,5 @@ response={}#creting json object
 response['test_score']=score
 response['forecast_set']=forecast
 
-a = 2
-b = a + 1
-print(b)
+print(response)
+
